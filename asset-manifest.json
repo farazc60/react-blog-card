@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-blog-card/static/css/main.8e708903.css",
+    "main.js": "/react-blog-card/static/js/main.644fa3ca.js",
+    "static/js/453.aa32d1ed.chunk.js": "/react-blog-card/static/js/453.aa32d1ed.chunk.js",
+    "index.html": "/react-blog-card/index.html",
+    "main.8e708903.css.map": "/react-blog-card/static/css/main.8e708903.css.map",
+    "main.644fa3ca.js.map": "/react-blog-card/static/js/main.644fa3ca.js.map",
+    "453.aa32d1ed.chunk.js.map": "/react-blog-card/static/js/453.aa32d1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e708903.css",
+    "static/js/main.644fa3ca.js"
+  ]
+}
